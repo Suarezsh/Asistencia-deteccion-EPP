@@ -1,0 +1,6 @@
+ttkbootstrap
+Pillow
+face-recognition
+opencv-python
+ultralytics
+matplotlib
